@@ -12,9 +12,6 @@ This project implements a Deep Q-Learning (DQN) agent to solve the FrozenLake en
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Results](#results)
-    - [Loss per Step](#loss-per-step)
-    - [Rewards per Episode](#rewards-per-episode)
   
 ## Demo
 ![Episode GIF9](gifs/episode_9.gif) ![Episode GIF39](gifs/episode_39.gif) ![Episode GIF39](gifs/episode_59.gif)
@@ -57,10 +54,3 @@ pip install gym numpy tensorflow matplotlib imageio
 9. **Plot Performance**: Plot the loss per step and rewards per episode to evaluate the agent's performance.
 10. **Test the Agent**: Run the trained agent in the environment to observe its behavior.
 
-## Results
-
-### Loss per Step
-![Loss per Step](model/loss.png)
-
-### Rewards per Episode
-![Rewards per Episode](model/rewards.png)
