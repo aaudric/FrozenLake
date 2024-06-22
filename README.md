@@ -17,7 +17,7 @@ This project implements a Deep Q-Learning (DQN) agent to solve the FrozenLake en
     - [Rewards per Episode](#rewards-per-episode)
   
 ## Demo
-![Episode GIF](gifs/episode_9.gif)
+![Episode GIF9](gifs/episode_9.gif) ![Episode GIF39](gifs/episode_39.gif) ![Episode GIF39](gifs/episode_59.gif)
 
 ## Features
 
